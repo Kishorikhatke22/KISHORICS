@@ -38,6 +38,17 @@
 ![Windows](https://img.shields.io/badge/Windows-Beginner-blue)   
 
 ---
+
+## 📋Certifications
+
+- **[Python ](https://www.credly.com/badges/xyz)** 
+- **[SQL](https://www.credly.com/badges/abc)** 
+- **[DBMS](https://www.credly.com/badges/123)** 
+- **[Javascript ](https://www.credly.com/badges/xyz)** 
+- **[HTML](https://www.credly.com/badges/abc)** 
+- **[CSS](https://www.credly.com/badges/123)** 
+
+---
 ### 🌐 Connect With Me
 - 📧 **Email:** [khatkekishori@gmail.com](mailto:khatkekishori@gmail.com)
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/kishori-khatke-a1949a239)
