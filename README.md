@@ -1,4 +1,4 @@
- # 👋 Hi, I'm [kishori khatke ]  
+ # 👋 Hi, I'm kishori khatke 
 🌐 **Cybersecurity Learner | Cybersecurity Analyst | Ethical Hacking Enthusiast |  **  
 
 ---
